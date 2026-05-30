@@ -206,469 +206,469 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Accessibility-8ZQMVELM9LWXVAOZRU24OPUJR.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Accessibility-D5AK33OZ32SL8Y2IINSDLG27L.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/AppKit-1GV8WYWOL30Y1R9P3AVLM41K7.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/AppKit-A40OB3XV9P0SI72W8BDR7NKBS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AppKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/ApplicationServices-1OR442WBBV1VG2EFZDS8HF3BR.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/ApplicationServices-16Y2O2XB8BQOZAMCB245TMJYF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CFNetwork-AYP54C8X9IA16PFH87JTR4KNJ.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CFNetwork-6EWG24E9M2R26AKU9DLRZLJ6E.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CUPS-142BG4FPPQTYDYB9Z3T6QHFS4.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CUPS-2QHIKOAB6K2VZVDIOP9LDRT39.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Cocoa.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Cocoa-CBDZ4UGAXHE0BDZROXJFOM8K3.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Cocoa-1KQPP4EV6HVT480P1PY1USE5F.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Cocoa"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/ColorSync-1IWXUXTEPKXLW3ISILD7MB1BC.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/ColorSync-832A4X95JDJ3WYVB8U1A3U1DA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreAudio-6K9D1PM4JJUV7BWETZNA89DIC.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreAudio-8XLNDLNPYPEPS2K2LZK3GZ1D4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudio"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreAudioTypes-AOW4PLFK7NZI2Y0IE693P72RN.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreAudioTypes-AODXW12X24F3V4V9KQHPOFESB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudioTypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreData-AW1768XB421I60JQWZWH3Z2EZ.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreData-AEB5PW3JYSU0GEOWCNZXBAPFS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreFoundation-76NF5KDVK47A8CHRJJU0T5KZ9.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreFoundation-6R5HO65HH0JDSWKBQBB3JQWO2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreGraphics-73A5DBKCMEG0NZHTRTZJF9UNN.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreGraphics-4J33XF78YHK4AKPFPLTMVH5Y6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreImage-4QQDBDL1C4OY1QAMUI6GQI4NC.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreImage-DB91TCM8FKPTEIMJF3NPF8FWL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreMedia-86OEVDHLEI1TH4X4AXQPG5G0S.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreMedia-AU5L4SW0OU4MEJPA79STZOK1P.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMedia"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreServices-CRHS9XC0N7HHRKF8PRE83S3MM.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreServices-1KUXWS1VTDQWM7GQIBMOBOF6X.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreText-CZZNPK9GW1Z29X2LN6ZWQ7E7E.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreText-603HHOWM4EPNLCTXV3JMXVS0O.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreTransferable-9AUFCC85YNPF60VUKI8J1I6XZ.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreTransferable-5KZEWKHYDOERYIXVCGFVXF0FO.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/CoreVideo-1WA4JE5298AOOKYY3OWLEVYX7.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/CoreVideo-7IMJU9NY2PW751I8VRA29XBL0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Darwin-8TMB7VEQPBLZGWHYFNO8V0SO4.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Darwin-B06LLCOI3ZWSOYL16DKF54O6M.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/DataDetection-8KN46X6R26BQUKAWQQ2JLP5SU.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/DataDetection-1E6IJP24JXKB3WB35YSXTS906.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/DeveloperToolsSupport-3E71AN3IMKJM8IZT0YXXTPK3W.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/DeveloperToolsSupport-2LD4PST0LS319K6I7A0G5YBPU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/DiskArbitration-9XQUCU39KIX3CFQXGO3N54Q2W.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/DiskArbitration-9U4KB8ZSSDMA69QW7EBR0U3G9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Dispatch-7Z3QEP6LQ459QCCU13GFR8NQZ.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Dispatch-8JP94D4P0I50YGWP7A7F4COX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
-    "clangModuleMapPath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/Build\/Products\/Debug\/FlutterMacOS.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/Build\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/FlutterMacOS-DNM8JHXAK93GDJB4Y923OU0A8.pcm",
+    "clangModuleMapPath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/Build\/Products\/Debug\/FlutterMacOS.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/Build\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/FlutterMacOS-7YBPLIBTL52U8A6KZD8NKJXIW.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "FlutterMacOS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Foundation-BP6ZROLYT81TH9BS3GSEVZEJ3.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Foundation-9BWYRY0C9S17S34IQG4T0UGXC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/IOKit-5T0ASMDYXGG70TIDC3GYZCMQ.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/IOKit-60Y6AF91OPBTY858G58WRF2MZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/IOSurface-DOKDJIBLAJILX66H6JL85LX66.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/IOSurface-DDZIZ3UNPS4TV51024VPCKGZ4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/ImageIO-CZR4YCT132EQ1O0U71I3RLUB0.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/ImageIO-2PVFTPTHX46IPOKG4QM98S37Z.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/MachO-6J1VUA41I23LD1HENB715PXME.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/MachO-22NXNFYJAKJJRTEWJIPGF39UA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Metal-DLVCVM1IRDFGPOVHWU6M6TOGB.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Metal-I3JUGB1U61S9KZSN7RTANTV7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/OSLog-EAW3UORX13UP3NDL3CBA8NCGC.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/OSLog-9JGFRHWWUCIQLNW5U7MPSELKR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/ObjectiveC-44RVCVO3J1F1VFUU529I94RZO.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/ObjectiveC-9TA2KEGETLI0KSO8LM53A0GGD.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/OpenGL-63PW006ABXDH7CCDIWQFER0YD.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/OpenGL-61FG8AL7E4PE8PFT5ZAES1VMF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/QuartzCore-3YONRFP74B57XD3R921CTQYZF.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/QuartzCore-13NNMF44JA3UQSBPCMU4JF2K8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Security-6DOSAT3I9E5RT855HZA2ISFMP.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Security-9XLHZ32WZ5IQTB66WT4QF67HN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Spatial\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Spatial-7YGN5WFEMPAK8U2D9Q1443MTE.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Spatial-MKLA4I1YE0912EH06ZT77CBA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Spatial"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/SwiftShims-1KOGQSP91J6O6RGHD06GQU3MA.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/SwiftShims-4D85PZSC1LX1VU031H6QSI9BE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/SwiftUI-1D78PT1541TRAHFQN3SDOGG2R.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/SwiftUI-6Z41IUR9P2GN7QPHOHHDZJAUZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUI"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/SwiftUICore-ALXGNH3T2HHBBXLURS6BJAPXW.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/SwiftUICore-887TDH4OK96A1F15Z8WDKWJ1N.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/Symbols-8XYEJTTQNLROXOHCQ35AXMDZ5.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/Symbols-E3NT7TS7A3DBDFOQI3ZA1C885.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/UniformTypeIdentifiers-D4GIKSFXHKGWTDZ4JPGSYGW5W.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/UniformTypeIdentifiers-6OTV94KEEY99IM0M46SG0YWSM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/XPC-A5PTDZPVJKJQ5QDWO6GL5KTYP.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/XPC-8MJIYT5DOJHFX8YEEL3AJI3WQ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_AvailabilityInternal-2JXWDJ21FI7LBBM2QXEDL3GXJ.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_AvailabilityInternal-8BAXW78BBELIOGDPCTHE84QC0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_float-3D5137P2C380Z0BG4ZYQCU8OL.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_float-BDNB3Y5EB1OIAX8ARJ2P8QKL2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_intrinsics-7ARF91YM405ADNMW3WPIRJ9JA.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_intrinsics-87H4KO0YWGIMBB5KIPYO8C8T3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_inttypes-BQF5P52GPEF8BF5Y089AUA91H.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_inttypes-2HNT4JUL98PGUNXZN2MERAYJC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_limits-CB3VIHTUOID72DAIWNNXWPTQ2.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_limits-5U9PBNYKGU111C4IPIGWH1AO0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stdarg-EXF6YOWOX8I5OJKUVNKNYSSAS.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stdarg-5152BLDUXGBSR3SL7L98F1C9B.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stdatomic-89PTH8D4V4VU3FBXJW8XI4FSH.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stdatomic-2TU8NFB7DQP7MM0KG8D7HYZS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stdbool-37H05Q46FC5FW3Y0M1AL9ZH4Y.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stdbool-E3U4L69QQUS9WQMQ06B52FDHS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stddef-1L3VN76SMVUDY8E11QQNDOTWR.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stddef-1ZUIYT2G6KJ8VHZJMVRA46MF5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stdint-EX0GE3GF5WOQYEXOTYHMR7XYF.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_stdint-1V42O87I6RMQX18GH4CEK1MEU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_Builtin_tgmath-EH5B9D3J1IB9T4J8Q0QNZA90Z.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_Builtin_tgmath-PCH6ZM5RH5A4RBQPXPLLV2WX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation1-AE55CWQSAU0L096XBQR5R1M7C.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation1-CF5FMDSEN4WM0CHZ1OVYIYRP8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation2-AFLGCRW19A7JSPO1ED76QV5FZ.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation2-7K5J7VT4Q6AGPWPOPO32ROUA5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation3-71MXNCA9TQJEKWIUNPPIY5Q5.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation3-93SCWW6SVW5U7RYQYFX7LK799.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-EPH7BS87NMSDCV91BSOCPUJOM.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-9D55NVHBKOMOLVD48FLSFQWY6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/launch-7RDM4LOGH4EQNHWKOA5G444I6.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/launch-7MH03PISQF0AK3B9SX02CLFN0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/libDER-1YYEN6JLQLFC8T0ZZYXKYZ1C8.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/libDER-53A9GIP1RQH4R3I6TE4IVYVA2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/libkern-6BZAYXCA8BDM01824VG2VCJD3.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/libkern-6HIJ0BWG6W4JOKT6S98Y18MM7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/os-92Y7CK0GA34WCXHS0QT1M5WCQ.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/os-CAYX35UMBOZUIJ0CB24LYGW98.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/os_object-E4OOPHC2ARFZMJOSY9SZ3OJD7.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/os_object-AYXGM88V39BL475RJFS9O106N.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/os_workgroup-60QQCI5AZUWHIME0IZ49IAWRU.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/os_workgroup-BPYQST1R1Z3ZGNZI03F7SUJ9S.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/ptrauth-1B2QM041GEJ19E7E6OD79GA0J.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/ptrauth-2HQ1I2M9CKU6534NYITX4T83Q.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/ptrcheck-4CN2VQ2O9XRM2XRM70J6V9MQX.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/ptrcheck-7CY7OTNBC29OTHA40F786GMVT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/simd-6B6M4N2NTYJCPXLNL3EH8OST5.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/simd-B2HE57Z21LK598QS0PEYLAIBG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Flutter\/diamond_gear\/build\/macos\/ModuleCache.noindex\/sys_types-D7P5N0O3KKFM5GHDDC0Q3L0PE.pcm",
+    "clangModulePath" : "\/Users\/reecebaham\/Documents\/College\/Summer 2026\/Mobile App Development\/Assignments\/Assignment 2\/diamond-gear\/build\/macos\/ModuleCache.noindex\/sys_types-BXTYNYX98L1KYSVULBVFB3XQ4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"

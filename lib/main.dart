@@ -201,6 +201,25 @@ class PlaceOrderButton extends StatelessWidget {
         showDialog(
           context: context,
           builder: (context) {
+            if(totalQuantity == 0) {
+              return AlertDialog(
+                title: Text("Empty Order"),
+                content: Text("No items have been added. Order not placed."),
+                actions: [
+                  TextButton(
+                    onPressed: () {
+                      Navigator.pop(context);
+                    },
+                    style: TextButton.styleFrom(
+                      backgroundColor: Colors.blue,
+                      foregroundColor: Colors.white,
+                    ),
+                    child: Text("Dismiss")
+                  )
+                ],
+              );
+            }
+            
             return AlertDialog(
               title: Text("Order Confirmation"),
               content: Text("Your order has been confirmed."),

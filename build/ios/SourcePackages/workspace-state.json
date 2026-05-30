@@ -9,12 +9,12 @@
         "packageRef" : {
           "identity" : "flutterframework",
           "kind" : "fileSystem",
-          "location" : "/Users/reecebaham/Documents/College/Summer 2026/Mobile App Development/Flutter/diamond_gear/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework",
+          "location" : "/Users/reecebaham/Documents/College/Summer 2026/Mobile App Development/Assignments/Assignment 2/diamond-gear/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework",
           "name" : "FlutterFramework"
         },
         "state" : {
           "name" : "fileSystem",
-          "path" : "/Users/reecebaham/Documents/College/Summer 2026/Mobile App Development/Flutter/diamond_gear/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework"
+          "path" : "/Users/reecebaham/Documents/College/Summer 2026/Mobile App Development/Assignments/Assignment 2/diamond-gear/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework"
         },
         "subpath" : "flutterframework"
       }
