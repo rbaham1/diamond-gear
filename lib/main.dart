@@ -318,7 +318,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       title: Text("Total"),
                       trailing: Text(
                         "\$ ${(value-discount).toStringAsFixed(2)}",
-                        style: TextStyle(fontSize: 12),
+                        style: TextStyle(fontSize: 14),
                       )
                     ),
                     
