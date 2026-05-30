@@ -1,6 +1,6 @@
 # diamond_gear
 
-A new Flutter project.
+A simple ordering app for baseball gear.
 
 ## Getting Started
 
